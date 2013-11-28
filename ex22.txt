@@ -1,0 +1,38 @@
+print -  writes to output. Converts to string. 
+# 	- make comments
+%d 	- prints decimal
+%r 	- raw presentation for debugging
+%s 	- prints string, format character
++ 	- add
+- 	- subtract
+/ 	- divide
+* 	- multiply
+< 	- less than
+> 	- greater than
+<= 	- less than or equal
+>= 	- greater than or equal
+= 	- assign variable a value 
+_ 	- puts an imaginary space between words
+== 	- checks two values against each other
+""" 	- print - documentation, or makes strings last several lines
+" 	- quotation mark
+‘ 	- quotation mark
+=+ 	- variable is equal, adding to the right
+()	- Parenthesis print(«I have 5 %s» (socks)
+argv 	- argument variable holds the argument you pass to your python script when you run it
+, 	- sets a comma
+target 	- targets a specific file (target.filename) 
+truncate - truncate file size
+write 	- writes to a specific file
+close	- close a specific file
+formatter - transform an abstract flow of formatting events into specific output
+\\ 	- makes a \ 
+\t 	- tab - indents
+\n 	- new line 
+raw_input - reads a line from input, converts to string, and returns that
+import 	- import a statement 
+open() 	- open a file using the file() type, then returns a file object
+len 	- return the number of items of a sequence or mapping
+def 	- define functions etc
+print - «hello world!» 
+
